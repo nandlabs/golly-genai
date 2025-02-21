@@ -8,12 +8,17 @@
 
 <!-- Brief Introduction of the project -->
 
+## Introduction
+
+`golly-genai` is an extension an extension to `[golly](https://github.com/nandlabs/golly)` `genai` package.
+
 ## Installation
 
-The Template has 2 main Variables that can be replaced
+To install the project, you can use the `go get` command:
 
-1. golly-genai : The Repository Name
-2. golly-genai : The Go Module name
+```bash
+go get github.com/nandlabs/golly-genai
+```
 
 ## Contributing
 
